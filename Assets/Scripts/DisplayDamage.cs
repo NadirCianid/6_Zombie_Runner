@@ -5,7 +5,7 @@ using UnityEngine;
 public class DisplayDamage : MonoBehaviour
 {
     [SerializeField] Canvas impactCanvas;
-    [SerializeField] float impactTime = 0.3f;
+    [SerializeField] float impactTime = 0.2f;
     
     void Start()
     {
